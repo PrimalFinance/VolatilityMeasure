@@ -1,0 +1,18 @@
+GMX_Exchange = [
+    "BTC",
+    "ETH",
+    "SOL",
+    "LINK",
+    "ARB11841",
+    "DOGE",
+    "GMX11857",
+    "UNI7083",
+    "LTC",
+    "XRP",
+    "NEAR",
+    "AVAX",
+    "BNB",
+    "AAVE",
+    "OP",
+    "ATOM",
+]
